@@ -1,4 +1,6 @@
 # Stock-Ticker-Analysis
 ## Purpose
 
-File provides ability to analyze days with unusual volume for stocks, what the gain is for that day, and what the gain is for the following day using VBA. To analyze more tickers just need to import new csv files into the sheet and run. 
+File provides ability for users to access stock price history using a TD api key to chart and analyze historical prices. The outcome will result as the image below with the candlestick chart of the given ticker with a given interval of time along with emas and markers. 
+
+![Image](https://github.com/evanbruno617/Stock-Ticker-Analysis/blob/main/Image/chart.png)
